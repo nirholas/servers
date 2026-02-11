@@ -1,0 +1,16 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "servers",
+    "name_for_model": "servers",
+    "description_for_human": "Model Context Protocol Servers",
+    "description_for_model": "Model Context Protocol Servers",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "none"
+    },
+    "logo_url": "https://github.com/nirholas.png",
+    "contact_email": "nirholas@users.noreply.github.com",
+    "legal_info_url": "https://github.com/nirholas/servers/blob/main/LICENSE"
+}

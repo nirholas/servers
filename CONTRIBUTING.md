@@ -38,3 +38,7 @@ We're more selective about adding wholly new documentation, especially in ways t
 [Learn how the MCP community communicates](https://modelcontextprotocol.io/community/communication).
 
 Thank you for helping make MCP servers better for everyone!
+
+## Code of Conduct
+
+Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).

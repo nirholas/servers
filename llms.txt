@@ -1,0 +1,9 @@
+# servers
+
+> Model Context Protocol Servers
+
+## Links
+
+- Repository: https://github.com/nirholas/servers
+- Author: https://github.com/nirholas
+- Full documentation: https://raw.githubusercontent.com/nirholas/servers/main/llms-full.txt

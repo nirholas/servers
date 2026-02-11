@@ -1,0 +1,13 @@
+{
+    "name": "servers",
+    "description": "Model Context Protocol Servers",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/servers",
+    "language": "TypeScript",
+    "topics": [
+        "nirholas",
+        "servers",
+        "open-source"
+    ]
+}

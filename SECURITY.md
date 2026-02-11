@@ -8,3 +8,12 @@ The security of our systems and user data is Anthropic’s top priority. We appr
 ## Vulnerability Disclosure Program
 
 Our Vulnerability Program guidelines are defined on our [HackerOne program page](https://hackerone.com/anthropic-vdp). We ask that any validated vulnerability in this functionality be reported through the [submission form](https://hackerone.com/anthropic-vdp/reports/new?type=team&report_type=vulnerability).
+
+## Reporting a Vulnerability
+
+If you discover a security issue, please report it responsibly:
+
+1. **Do NOT** open a public issue
+2. Email the maintainer or open a private security advisory on GitHub
+3. Include steps to reproduce the vulnerability
+4. Allow reasonable time for a fix before disclosure

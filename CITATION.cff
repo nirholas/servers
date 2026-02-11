@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use servers, please cite it as below."
+type: software
+title: "servers"
+abstract: "Model Context Protocol Servers"
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/servers"
+url: "https://github.com/nirholas/servers"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas
